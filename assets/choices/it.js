@@ -1,4 +1,4 @@
-en={
+it={
     "2G": {
         "1R": "PHAEDRA",
         "1S": "THE BERMUDA TRIANGLE"
